@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+<suite name="Indeed application testing"  >
+
+
+    <test name="Indeed" >
+        <classes>
+            <class name="TestNG_Scripts.indeed_Practice_TestNG" />
+        </classes>
+    </test>
+
+
+</suite>
